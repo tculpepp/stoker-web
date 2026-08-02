@@ -1,0 +1,16 @@
+{
+  "logs": [
+    {
+      "logId": "01J8QK5N7X3ZC9YB2M4V6P8R0T",
+      "cookerName": "Backyard Brisket",
+      "startedAt": "2026-08-02T12:00:00.000Z",
+      "endedAt": "2026-08-02T20:15:00.000Z"
+    },
+    {
+      "logId": "01J8QK9F2H5D7K1N3Q6S8W0Y4A",
+      "cookerName": "Backyard Brisket",
+      "startedAt": "2026-08-02T21:00:00.000Z",
+      "endedAt": null
+    }
+  ]
+}

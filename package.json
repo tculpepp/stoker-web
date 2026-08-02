@@ -1,0 +1,22 @@
+{
+  "name": "stoker-web",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:server": "npm run dev -w @stoker-web/server",
+    "dev:web": "npm run dev -w @stoker-web/web",
+    "build": "npm run build -w @stoker-web/shared-types && npm run build -w @stoker-web/server && npm run build -w @stoker-web/web",
+    "test": "npm run test -w @stoker-web/server && npm run test -w @stoker-web/web",
+    "lint": "eslint . --ext .ts,.vue",
+    "typecheck": "npm run typecheck -w @stoker-web/server && npm run typecheck -w @stoker-web/web"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^8.15.0",
+    "@typescript-eslint/parser": "^8.15.0",
+    "eslint": "^9.15.0",
+    "prettier": "^3.3.3",
+    "typescript": "^5.7.2"
+  }
+}

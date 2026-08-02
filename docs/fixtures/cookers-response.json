@@ -1,0 +1,39 @@
+{
+  "cookers": [
+    {
+      "name": "Backyard Brisket",
+      "pitProbe": {
+        "id": "E70000116F279030",
+        "name": "Pit",
+        "cooker": "Backyard Brisket",
+        "type": "probe",
+        "targetTemp": 225,
+        "alarmLow": 200,
+        "alarmHigh": 250,
+        "alarmType": "ALARM_FIRE",
+        "currentTemp": 228.1,
+        "blower": {
+          "id": "E70000116F279031",
+          "name": "Blower",
+          "cooker": "Backyard Brisket",
+          "type": "fan",
+          "fanOn": true,
+          "totalRuntime": 4820
+        }
+      },
+      "probeList": [
+        {
+          "id": "DB0000116F0BEC30",
+          "name": "Brisket Meat",
+          "cooker": "Backyard Brisket",
+          "type": "probe",
+          "targetTemp": 203,
+          "alarmLow": 0,
+          "alarmHigh": 203,
+          "alarmType": "ALARM_FOOD",
+          "currentTemp": 165.4
+        }
+      ]
+    }
+  ]
+}

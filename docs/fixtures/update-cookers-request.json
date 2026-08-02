@@ -1,0 +1,20 @@
+{
+  "cookers": [
+    {
+      "name": "Backyard Brisket",
+      "probeList": [
+        {
+          "id": "DB0000116F0BEC30",
+          "name": "Brisket Meat",
+          "cooker": "Backyard Brisket",
+          "type": "probe",
+          "targetTemp": 203,
+          "alarmLow": 0,
+          "alarmHigh": 203,
+          "alarmType": "ALARM_FOOD",
+          "currentTemp": 165.4
+        }
+      ]
+    }
+  ]
+}

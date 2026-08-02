@@ -1,0 +1,5 @@
+{
+  "type": "weather-update",
+  "tempF": 84.2,
+  "conditionText": "Partly Cloudy"
+}

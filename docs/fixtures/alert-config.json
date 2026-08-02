@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "deliveryMethods": ["browser", "email"],
+  "availableDeliveryMethods": ["browser", "email"],
+  "repeatSuppressionMinutes": 10
+}

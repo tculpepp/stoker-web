@@ -1,0 +1,7 @@
+{
+  "type": "alarm",
+  "deviceId": "E70000116F279030",
+  "alarmType": "ALARM_FIRE",
+  "currentTemp": 252.3,
+  "message": "High Temperature Alarm on Pit"
+}
