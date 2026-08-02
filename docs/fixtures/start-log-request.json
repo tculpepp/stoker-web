@@ -1,0 +1,16 @@
+{
+  "cookerName": "Backyard Brisket",
+  "devices": [
+    {
+      "id": "E70000116F279030",
+      "name": "Pit",
+      "cooker": "Backyard Brisket",
+      "type": "probe",
+      "targetTemp": 225,
+      "alarmLow": 200,
+      "alarmHigh": 250,
+      "alarmType": "ALARM_FIRE",
+      "currentTemp": 228.1
+    }
+  ]
+}

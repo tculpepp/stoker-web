@@ -1,0 +1,17 @@
+{
+  "type": "device-update",
+  "devices": [
+    {
+      "id": "E70000116F279030",
+      "name": "Pit",
+      "cooker": "Backyard Brisket",
+      "type": "probe",
+      "targetTemp": 225,
+      "alarmLow": 200,
+      "alarmHigh": 250,
+      "alarmType": "ALARM_FIRE",
+      "currentTemp": 228.6
+    }
+  ],
+  "receivedAt": "2026-08-02T21:05:00.000Z"
+}

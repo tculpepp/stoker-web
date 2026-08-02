@@ -1,0 +1,22 @@
+{
+  "readings": [
+    {
+      "collectedAt": "2026-08-02T21:00:00.000Z",
+      "deviceId": "E70000116F279030",
+      "tempF": 225.4,
+      "tempC": 107.4
+    },
+    {
+      "collectedAt": "2026-08-02T21:05:00.000Z",
+      "deviceId": "E70000116F279030",
+      "tempF": 227.9,
+      "tempC": 108.8
+    },
+    {
+      "collectedAt": "2026-08-02T21:00:00.000Z",
+      "deviceId": "DB0000116F0BEC30",
+      "tempF": 42.1,
+      "tempC": 5.6
+    }
+  ]
+}
